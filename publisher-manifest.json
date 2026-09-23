@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "5ac0d8ba5581989854a13c9e",
+  "owner": "wrhtxava",
+  "repo": "page-e6137226bf184cd49fd335c1",
+  "title": "安全梯",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e6137226bf184cd49fd335c1",
+      "a": "安全梯",
+      "b": "2027最新官网",
+      "entity": "安全梯",
+      "brand": "安全梯",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "17b1e15c8cd896b125fa0a66116f178a6fb7d2f2e0365bab6c887522bb07c431",
+      "content": {
+        "primary_entity": "安全梯",
+        "keyword1": "安全梯",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "不同设备选择对应客户端，按系统文档导入订阅即可。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "选好套餐后，按对应客户端文档配置订阅，即可开始使用。",
+          "AI_CLOSING_TITLE": "从合适套餐开始",
+          "AI_DESCRIPTION": "，安全梯提供基础版、旗舰版、团队版三档订阅，按月或按年付费。基础版每月100GB流量、支持3台设备；旗舰版每月300GB流量、支持5台设备，含IPLC专线与流媒体解锁；团队版每月1000GB流量、支持20台设备。按年付费更划算，基础版150元/年、旗舰版350元/年、团队版850元/年。",
+          "AI_FEATURES_INTRO": "从套餐规格、设备数量和订阅周期三个角度了解安全梯的使用方式。",
+          "AI_FEATURES_TITLE": "选择前可了解的三件事",
+          "AI_FEATURE_TEXT_1": "基础版适合一到三台设备，旗舰版覆盖五台设备，团队版支持二十台同时在线。",
+          "AI_FEATURE_TEXT_2": "每月流量从100GB到1000GB，重度使用可选旗舰版或团队版的高带宽节点。",
+          "AI_FEATURE_TEXT_3": "按月付灵活，按年付基础版150元、旗舰版350元、团队版850元，长期使用更省。",
+          "AI_FEATURE_TITLE_1": "设备数量对应套餐",
+          "AI_FEATURE_TITLE_2": "流量规格按需选择",
+          "AI_FEATURE_TITLE_3": "计费周期灵活",
+          "AI_GUIDE_INTRO": "从选套餐到配置订阅，三步完成安全梯的初步设置。",
+          "AI_GUIDE_TITLE": "配置订阅三步走",
+          "AI_HERO_INTRO": "安全梯是面向跨区域访问的加速服务，提供基础版、旗舰版和团队版三档套餐，覆盖不同流量与设备数量需求，支持按月或按年付费，配合主流客户端使用。",
+          "AI_HERO_SUBTITLE": "跨区域加速，按需选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "按年付费更省，长期使用划算",
+          "AI_HIGHLIGHT_3": "旗舰版含专线与流媒体解锁",
+          "AI_PLANS_INTRO": "基础版每月100GB流量、3台设备；旗舰版每月300GB流量、5台设备，含IPLC专线；团队版每月1000GB流量、20台设备。按年付分别150元、350元、850元。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量和每月流量需求，在基础版、旗舰版、团队版中选一档。",
+          "AI_STEP_TEXT_2": "确认所选套餐支持的设备数量，以及是否需要IPLC专线或流媒体解锁。",
+          "AI_STEP_TEXT_3": "按照对应客户端的文档导入订阅，完成配置后即可开始使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "安全梯订阅选择",
+          "AI_FAQ_TITLE": "常见疑问",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版在设备数量上有什么区别？",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版支持 5 台设备同时在线。若常用终端较多，可考虑旗舰版或团队版。",
+          "AI_FAQ_QUESTION_2": "每月流量用不完会累积吗？",
+          "AI_FAQ_ANSWER_2": "各套餐按月提供流量额度，基础版 100GB、旗舰版 300GB、团队版 1000GB，具体计费周期以所选方案为准。",
+          "AI_FAQ_QUESTION_3": "年付相比月付能节省多少？",
+          "AI_FAQ_ANSWER_3": "基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，相比按月支付，年付总价更低。",
+          "AI_FAQ_QUESTION_4": "在哪些客户端可以导入订阅？",
+          "AI_FAQ_ANSWER_4": "可根据设备系统选择常见客户端导入订阅，具体支持情况请参照对应客户端的配置文档，不同平台配置方式略有差异。",
+          "AI_FAQ_QUESTION_5": "团队版适用于什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB 流量并支持 20 台设备，含 VIP 专属高带宽节点与定制路由，适合多人协作或小型团队使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--mmyun-h02iv96g.com",
+    "host": "xn--mmyun-h02iv96g.com"
+  },
+  "file_hashes": {
+    "index.html": "bba1663f0c881572f63958cf71143e9e2d566c4069d81ca405bc1a084f874f8a",
+    "sitemap.xml": "08dd280d46736121b3058c8d99be7711c89898b985b7869a0de7afdf11f0a657",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6e7d212c70ae9eaed30dd30aad6b6d364aca04708e14e75996228513388866a6",
+    "robots.txt": "0577311e5fb08701deb624e88c998e965570e6f526f950c7754e48df3ad96e6a",
+    "3cce46684274c58ec510ff3f3030bfd8.txt": "1ac9608fa6557dd59feba57c7126a94e6c3f5fb2d7005138c4c95bfda9467ad2"
+  },
+  "revision": "3350e195c2561a1a7d9fc15c97d4ad0610023e88aaf36ce81218d087fe23dbf8"
+}
